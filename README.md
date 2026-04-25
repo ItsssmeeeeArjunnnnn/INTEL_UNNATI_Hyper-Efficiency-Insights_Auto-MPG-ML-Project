@@ -1,0 +1,2 @@
+# INTEL_UNNATI_Hyper-Efficiency-Insights_Auto-MPG-ML-Project
+Hyper-Efficiency Insights is a machine learning project dedicated to analyzing and predicting the fuel efficiency of vehicles. By leveraging the classic Auto-MPG dataset, this project explores the relationship between a car's physical attributes (such as horsepower, weight, and displacement) and its fuel economy measured in Miles Per Gallon (MPG).
